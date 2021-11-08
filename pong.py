@@ -1,3 +1,5 @@
+# Classic Pong game
+
 import turtle
 from turtle import pen
 
