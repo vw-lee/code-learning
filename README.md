@@ -1,2 +1,2 @@
 # Purpose
-This project is a collection of python exercises.
+This project is a collection of coding exercises.
