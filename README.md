@@ -1,4 +1,5 @@
 # Purpose
 This project is a collection of coding exercises.
 
-# comment
+%% make a comment
+%% this is a merged branch
