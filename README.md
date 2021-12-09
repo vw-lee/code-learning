@@ -1,4 +1,6 @@
 # Purpose
 This project is a collection of coding exercises.
 
-%% make a comment
+Currently this includes:
+- C progra
+- Python Coding
