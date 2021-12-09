@@ -2,5 +2,5 @@
 This project is a collection of coding exercises.
 
 Currently this includes:
-- C progra
+- C Coding
 - Python Coding
