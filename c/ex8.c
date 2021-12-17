@@ -17,10 +17,12 @@ int main (int argc, char *argv[]) {
         'i',
         'v',
         'e',
-        'r'
+        'r',
+        '\0' // need this line to terminate the string
     };
     
-    printf("(int[]): %ld\n %d\n",sizeof(areas), sizeof(int));
+    printf("(int[]): %ld\n %ld\n",sizeof(areas), sizeof(int));
+    printf("%s\n", full_name);
 
-
+    return 0;
 }
