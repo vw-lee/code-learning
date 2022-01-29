@@ -9,7 +9,14 @@ int main(void) {
 // printf("Please enter radius (float)\n");
 // scanf("%f\n", &radius);
 
+double theta = pi * pi;
+
+const float pi2 = 2.22222;
+
+
 printf("The value of pi is %f\n", pi);
+
+printf("The value of theta is %f\n", theta);
 
 return 0;
 /*
