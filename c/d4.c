@@ -18,5 +18,16 @@ int main(void) {
         printf("The iteration of this loop is %d\n", j);
     }
 
+    int x, y, z;
+    x = 5, 
+    y = 12,
+    z = y % x * x;
+    printf("\n%d\n", z);
+
+    if (0 == 0) {
+        x = y;
+    }
+
+    printf("x: %d, y: %d\n", x, y);
     return 0;
 }

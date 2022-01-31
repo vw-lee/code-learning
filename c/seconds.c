@@ -7,6 +7,8 @@ long seconds, minute, hour;
 long minute_multiplier, hour_multiplier;
 
 int main(void) {
+
+    printf("Enter the number of seconds for conversion: \n");
     long user_input_seconds;
     scanf("%ld", &user_input_seconds);
 
