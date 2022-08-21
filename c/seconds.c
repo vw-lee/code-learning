@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//define a constant
 #define seconds_per_minute 60
 #define minute_per_hour 60
 
