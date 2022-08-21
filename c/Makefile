@@ -1,6 +1,18 @@
-CFLAGS=-Wall -g
+  # the compiler: gcc for C program, define as g++ for C++
+  CC = gcc
 
-all: ex1 ex3 ex4
+  # compiler flags:
+  #  -g    adds debugging information to the executable file
+  #  -Wall turns on most, but not all, compiler warnings
+  CFLAGS  = -g -Wall
 
-clean:
-	rm -f ex1 ex3 ex4
+  # the build target executable:
+  TARGET = code-camp_ex1
+
+  all: $(TARGET)
+
+$(TARGET): $(TARGET).c
+	$(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c
+
+  clean:
+	$(RM) $(TARGET)
