@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 test_font = pygame.font.Font('font/Pixeltype.ttf', 50)
 
 # convert_alpha() makes the game run faster
-canvas_sky = pygame.image.load('graphics/sky.png').convert_alpha()
+canvas_sky = pygame.image.load('graphics/Sky.png').convert_alpha()
 canvas_ground = pygame.image.load('graphics/ground.png').convert_alpha()
 
 # get the rectangle of the image outline 
@@ -22,7 +22,7 @@ score_rect = score_surf.get_rect(center = (400, 30))
 snail_surf = pygame.image.load('graphics/snail/snail1.png').convert_alpha()
 snail_rect = snail_surf.get_rect(topleft = (600, 260))
 
-player_surf = pygame.image.load('graphics/player/player_walk_1.png').convert_alpha()
+player_surf = pygame.image.load('graphics/Player/player_walk_1.png').convert_alpha()
 player_rect = player_surf.get_rect(topleft = (80, 210))
 
 
