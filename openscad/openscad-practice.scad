@@ -23,7 +23,9 @@ translate([-15,15,brush_bot_dep])
 translate([0,-20,handle_bot_dep])
     cylinder(r=handle_bot_rad, h=handle_bot_dep, center=true);
 
-cylinder(r=base_rad, h=base_dep, center=true);
+
+scale([1, 1, 1])
+    cylinder(r=base_rad, h=base_dep, center=true);
 
 
 
