@@ -1,4 +1,16 @@
-need to learn and utilize exisiting skills to build applications.
+if i am not going to AU for another 3 years, I then have more time to prepare for what's coming.
+
+before I am 35 years old.
+
+what people to keep in touch with?
+
+what work to do?
+
+what projects to help achieve these goals?
+- electronics design to launch kickstarter campaign
+- coding to understand/enhance AI skills
+- investment to make money in the long run
+
 
 things I enjoy doing:
 
@@ -22,11 +34,3 @@ things I enjoy doing:
 
 ## electronics building
 #laborous #creative #product
-
-
-Business Stategy for ChatGPT:
-
-you are a business analyst from the likes of KPMG, EY.
-your task is to help client to come up with good profittable business strategies either online or physical based.
-Task:
-develop a small but scalable business strategy based on woodworking and hiandyman skills based in Australia, leverage on advancement of AI.
