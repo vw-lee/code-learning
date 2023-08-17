@@ -1,3 +1,20 @@
+what do I want? what could a man in 30 possibly want?
+
+cars? house? PC? gaming console? power tools?
+no cars, too expensive, no need, no bikes either, not time and not enough riding
+
+house? not enough money bro
+
+gaming console? already have win max 2 and switch, current windows handhelds dont really satisfy the portable gaming needs
+
+power tools? not really they aren't expensive anyway
+
+cnc? 3D printer? can do with the basics
+
+PC? yes!
+
+
+
 if i am not going to AU for another 3 years, I then have more time to prepare for what's coming.
 
 before I am 35 years old.
