@@ -1,3 +1,12 @@
+morning routine?
+- what kind of routine? what time to wake up and what to do?
+
+learning time?
+- learn about new projects, news catchup, and exercise new ideas
+
+
+
+
 if i am not going to AU for another 3 years, I then have more time to prepare for what's coming.
 
 before I am 35 years old.
