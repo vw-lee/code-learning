@@ -25,7 +25,16 @@ int main() {
     << result[2] 
     << endl
     << result[3] 
+    << endl
     << endl;
+
+    int counter1 {0};
+    int counter2 {0};
+
+    counter1++;
+    ++counter2;
+    cout << counter1 << endl;
+    cout << counter2 << endl;
 
     return 0;
 }
